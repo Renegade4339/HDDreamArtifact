@@ -1,0 +1,4 @@
+addmenukey "Toggle Dash" celestedash
+defaultbind x celestedash
+alias celestedash "netevent hddreamdash"
+alias particlecolorreset "netevent hddreamcolorreset"

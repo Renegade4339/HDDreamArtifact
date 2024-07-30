@@ -1,0 +1,4 @@
+nosave color hddreamartifact_primarydashcolor = "87 ce eb";
+nosave color hddreamartifact_secondarydashcolor = "ff ff ff";
+nosave color hddreamartifact_primarydashcolorupgraded = "d7 ab ff";
+nosave color hddreamartifact_secondarydashcolorupgraded = "ff ff ff";

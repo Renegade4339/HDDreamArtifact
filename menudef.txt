@@ -1,0 +1,24 @@
+OptionMenu "HDDreamArtifactMenu"
+{
+	Title "$HDDREAMARTIFACT_MENUTITLE"
+	StaticText "$HDDREAMARTIFACT_DESC1","Cyan"
+	StaticText "$HDDREAMARTIFACT_DESC2","Brick"
+	StaticText "$HDDREAMARTIFACT_DESC3","White"
+	StaticText "$HDDREAMARTIFACT_DESC4","Brick"
+	StaticText "$HDDREAMARTIFACT_DESC5","Cyan"
+	StaticText " "
+	StaticText " "
+	ColorPicker "$HDDREAMARTIFACT_PRIMARYDASHCOLORTITLE","hddreamartifact_primarydashcolor"
+	ColorPicker "$HDDREAMARTIFACT_SECONDARYDASHCOLORTITLE","hddreamartifact_secondarydashcolor"
+	StaticText " "
+	SafeCommand "$HDDREAMARTIFACT_COLORRESET","particlecolorreset","$HDDREAMARTIFACT_REALLYCOLORRESET"
+	StaticText "$HDDREAMARTIFACT_RESETNOTICE","White"
+	StaticText " "
+	Control "$HDDREAMARTIFACT_DASH", "celestedash"
+	StaticText " "
+}
+
+AddOptionMenu "HDAddonMenu"
+{
+	Submenu "$HDDREAMARTIFACT_MENUTITLE", "HDDreamArtifactMenu"
+}

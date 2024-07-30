@@ -1,0 +1,5 @@
+$random dreamartifact/dash { dreamartifact/dash1 dreamartifact/dash2 }
+dreamartifact/dash1 sounds/dreamartifact_dash1.wav
+dreamartifact/dash2 sounds/dreamartifact_dash2.wav
+
+dreamartifact/pickup sounds/dreamartifact_pickup.wav

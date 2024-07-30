@@ -1,0 +1,50 @@
+sprite DRATA0,40,24{
+	offset 20,24
+	sprite DRATA0,0,0
+}
+
+sprite DRATB0,40,24{
+	offset 20,24
+	sprite DRATB0,0,0
+}
+
+sprite DRATC0,40,24{
+	offset 20,24
+	sprite DRATC0,0,0
+}
+
+sprite DRATD0,40,24{
+	offset 20,24
+	sprite DRATD0,0,0
+}
+
+sprite DRATE0,40,24{
+	offset 20,24
+	sprite DRATE0,0,0
+}
+
+sprite DRATF0,40,24{
+	offset 20,24
+	sprite DRATF0,0,0
+}
+
+sprite DRATG0,40,24{
+	offset 20,24
+	sprite DRATG0,0,0
+}
+
+sprite DRATH0,40,24{
+	offset 20,24
+	sprite DRATH0,0,0
+}
+
+sprite DRATI0,40,24{
+	offset 20,24
+	sprite DRATI0,0,0
+}
+
+sprite DRATJ0,40,24{
+	offset 20,24
+	sprite DRATJ0,0,0
+}
+
