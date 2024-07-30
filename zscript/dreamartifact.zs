@@ -50,6 +50,15 @@ class DreamArtifact:HDPickup{
 		if(ownertranslate)owner.translation=ownertranslate;
 		dashcd=0;
 		dashed=false;
+		
+		hdplayercorpse hdc;
+		thinkeriterator hdcorpse=ThinkerIterator.create("hdplayercorpse");
+		while(hdc=hdplayercorpse(hdcorpse.next(true))){
+			if((hdc.master==owner)&&hdc.getage()<5){
+			if(ownertranslate)hdc.translation=ownertranslate;
+			return;
+			}
+		}
 	}
 
 	override void Tick(){
