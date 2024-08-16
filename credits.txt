@@ -1,2 +1,2 @@
-Strawberry sprites and sounds from Celeste by Maddy Makes Games
-Dash mechanic heavily inspired by Mayaqq's Create: Estrogen
+Strawberry sprites and sounds, and movement mechanics from Celeste by Maddy Makes Games
+The entire mod is heavily inspired by Mayaqq's Create: Estrogen
