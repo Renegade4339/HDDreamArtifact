@@ -22,7 +22,6 @@ class DreamArtifact:HDPickup{
 		hdpickup.bulk 0;
 		height 32;
 		radius 16;
-		inventory.maxamount 2;
 		+nogravity;
 		tag "$TAG_CELESTE";
 		hdpickup.refid "grl";
@@ -300,7 +299,7 @@ class CelestialArtifact:HDPickup{
 		loop;
 
 	flash:
-		CEAT GH 4 bright{
+		CEAT GH 2 bright{
 			double ud=frandom(-0.05,0.05);
 			A_StartSound("dreamartifact/pulse",CHAN_BODY,CHANF_OVERLAP,pitch:0.7);
 			if(pos.z-floorz<4){
