@@ -2,4 +2,12 @@ $random dreamartifact/dash { dreamartifact/dash1 dreamartifact/dash2 }
 dreamartifact/dash1 sounds/dreamartifact_dash1.wav
 dreamartifact/dash2 sounds/dreamartifact_dash2.wav
 
+$random dreamartifact/upgradeddash { dreamartifact/upgradeddash1 dreamartifact/upgradeddash2 }
+dreamartifact/upgradeddash1 sounds/dreamartifact_upgradeddash1.wav
+dreamartifact/upgradeddash2 sounds/dreamartifact_upgradeddash2.wav
+
 dreamartifact/pickup sounds/dreamartifact_pickup.wav
+dreamartifact/pulse sounds/dreamartifact_pulse.wav
+dreamartifact/goldenrunstart sounds/dreamartifact_goldenrunstart.wav
+dreamartifact/goldendeath sounds/dreamartifact_goldendeath.wav
+dreamartifact/goldenupgrade sounds/dreamartifact_goldenupgrade.wav

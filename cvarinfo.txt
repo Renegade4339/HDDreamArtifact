@@ -1,4 +1,5 @@
-nosave color hddreamartifact_primarydashcolor = "87 ce eb";
-nosave color hddreamartifact_secondarydashcolor = "ff ff ff";
-nosave color hddreamartifact_primarydashcolorupgraded = "d7 ab ff";
-nosave color hddreamartifact_secondarydashcolorupgraded = "ff ff ff";
+user color hddreamartifact_primarydashcolor = "87 ce eb";
+user color hddreamartifact_secondarydashcolor = "ff ff ff";
+user color hddreamartifact_primarydashcolorupgraded = "d7 ab ff";
+user color hddreamartifact_secondarydashcolorupgraded = "ff ff ff";
+//server bool hddreamartifact_forgivinggoldenrun = false;

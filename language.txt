@@ -1,12 +1,14 @@
 [en enc eng eni ena enz default]
 PICKUP_CELESTE="You absorbed a Dream Artefact! You feel the power of expressing yourself.";
+PICKUP_CELESTE2="You absorbed a Celestial Artefact! You feel a certain power rushing through...";
 TAG_CELESTE="Dream Artefact";
+TAG_CELESTE2="Celestial Artefact";
 HDDREAMARTIFACT_MENUTITLE="Dream Artefact Options";
 HDDREAMARTIFACT_DESC1="The Dream Artefact is an extremely rare object that";
 HDDREAMARTIFACT_DESC2="possesses very powerful properties to those who absorbed";
 HDDREAMARTIFACT_DESC3="the artefact. People reported to be capable of dash in all directions";
 HDDREAMARTIFACT_DESC4="as well as capabilities of scaling walls with little to no effort.";
-HDDREAMARTIFACT_DESC5="There are unconfirmed reports of a much more powerful version of it.";
+HDDREAMARTIFACT_DESC5="There are unconfirmed reports of a much more powerful version of it, with enough determination.";
 HDDREAMARTIFACT_PRIMARYDASHCOLORTITLE="Dash - Primary Particle Colour";
 HDDREAMARTIFACT_SECONDARYDASHCOLORTITLE="Dash - Secondary Particle Colour";
 HDDREAMARTIFACT_PRIMARYDASHCOLORUPGRADED="Upgraded Dash - Primary Particle Colour";
@@ -15,11 +17,19 @@ HDDREAMARTIFACT_DASH="Toggle Dash";
 HDDREAMARTIFACT_COLORRESET="Reset Particle Colours to Defaults";
 HDDREAMARTIFACT_REALLYCOLORRESET="Are you sure resetting the \ndash particle colours?";
 HDDREAMARTIFACT_RESETNOTICE="Only works when in-game!";
+//HDDREAMARTIFACT_FORGIVINGGOLDENRUNTITLE="Forgiving Golden Run";
+//HDDREAMARTIFACT_FORGIVINGGOLDENRUNDESC1="Makes golden runs be retained through";
+//HDDREAMARTIFACT_FORGIVINGGOLDENRUNDESC2="savegames in singleplayer.";
+//HDDREAMARTIFACT_GOLDENRUNFAILSAVE="The Artifact's upgrade potential faded away...";
+//HDDREAMARTIFACT_GOLDENRUNSTART="The Artifact's upgrade potential resonates...";
+//HDDREAMARTIFACT_GOLDENRUNSUCCESS="The Artifact has successfully upgraded!";
 
 
 [enu]
 PICKUP_CELESTE="You absorbed a Dream Artifact! You feel the power of expressing yourself.";
+PICKUP_CELESTE2="You absorbed a Celestial Artifact! You feel a certain power rushing through...";
 TAG_CELESTE="Dream Artifact";
+TAG_CELESTE2="Celestial Artifact";
 HDDREAMARTIFACT_MENUTITLE="Dream Artifact Options";
 HDDREAMARTIFACT_DESC1="The Dream Artifact is an extremely rare object that";
 HDDREAMARTIFACT_DESC3="the artifact. People reported to be capable of dash in all directions";

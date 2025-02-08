@@ -48,3 +48,43 @@ sprite DRATJ0,40,24{
 	sprite DRATJ0,0,0
 }
 
+sprite CEATA0,12,15{
+	offset 6,15
+	sprite CEATA0,0,0
+}
+
+sprite CEATB0,12,15{
+	offset 6,15
+	sprite CEATB0,0,0
+}
+
+sprite CEATC0,12,15{
+	offset 6,15
+	sprite CEATC0,0,0
+}
+
+sprite CEATD0,12,15{
+	offset 6,15
+	sprite CEATD0,0,0
+}
+
+sprite CEATE0,12,15{
+	offset 6,15
+	sprite CEATE0,0,0
+}
+
+sprite CEATF0,12,15{
+	offset 6,15
+	sprite CEATF0,0,0
+}
+
+sprite CEATG0,12,15{
+	offset 6,15
+	sprite CEATG0,0,0
+}
+
+sprite CEATH0,12,15{
+	offset 6,15
+	sprite CEATH0,0,0
+}
+
