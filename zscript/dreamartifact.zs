@@ -129,6 +129,8 @@ class DreamArtifact:HDPickup{
 			let blur=spawn("DashAfterimage",owner.pos,ALLOW_REPLACE);
 				if(blur){
 					blur.sprite=owner.sprite;
+					blur.scale.x=owner.scale.x;
+					blur.scale.y=owner.scale.y;
 					if(owner.frame==5)blur.frame=4;
 					else blur.frame=owner.frame;
 					//blur.translation=owner.translation;
